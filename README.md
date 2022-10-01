@@ -1,2 +1,6 @@
 # latihan-dasar-pemrograman
-Jhon hoo mayos asmuruf
+Nama : Jhon hoo mayos asmuruf
+Nim : 20220040231
+Kelas : 22F
+Prodi: teknik informatika
+
